@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130016882627",
+    "project_id": "evergreen-events-c6981",
+    "storage_bucket": "evergreen-events-c6981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130016882627:android:5829de493d9878d3d89776",
+        "android_client_info": {
+          "package_name": "com.example.evergreenevents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKImhInhxr-f_MxepvNPu1iG5r4Zi4QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
